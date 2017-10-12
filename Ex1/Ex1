@@ -1,0 +1,12 @@
+# Excercise 1 - Printing shit
+# 1-1 Make the program print another line
+# 1-2 Add # to a line and see what it does. 
+
+# print("Hello World!")
+print("Hell again")
+print("I like typing this")
+print("This is fun")
+print("Yay, Printing is fun")
+print("I'd much rather you 'not'")
+print('I "said" do not touch this.')
+print("New line.. as the excercise said")
